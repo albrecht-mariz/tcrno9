@@ -2,6 +2,7 @@
 
 ### Plotting the coordinates of all riders participating in the Trancontinental Race 2023
 
+
 The [Transcontinental](https://www.transcontinental.cc) is a self-supported ultracycling race that spans the European continent, covering around 4000 km with a challenging 40000 m elevation gain. It's a single-stage event where time never stops, and riders must carry all their food, drinks, and equipment along the way, without the luxury of pre-arranged accommodations.
 
 With a 16-day time limit, participants face mandatory control points and off-road parcours, but the riders have to plan their routes between the obligatory CP and sections. They try to avoid big cities, high mountains, and busy roads when planning the route, normally using [OSM](https://www.openstreetmap.org/#map=12/11.0733/106.3078)-based tools like [komoot](https://www.komoot.com).
@@ -10,6 +11,7 @@ The fact that there is no mandatory route creates an opportunity to plot all the
 
 This year's race, the TCRNo9, starts in Geraardsbergen, Belgium, and ends in Thessaloniki, Greece.
 You can follow the race and fetch the data on the [Follow My Challenge](https://www2.followmychallenge.com/live/tcrno9/) website.
+
 
 ![png](maps/tcrno9_route_horizontal.png)
 
