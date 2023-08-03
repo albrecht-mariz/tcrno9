@@ -11,7 +11,7 @@ The fact that there is no mandatory route creates an opportunity to plot all the
 This year's race, the TCRNo9, starts in Geraardsbergen, Belgium, and ends in Thessaloniki, Greece.
 You can follow the race and fetch the data on the [Follow My Challenge](https://www2.followmychallenge.com/live/tcrno9/) website.
 
-![png](maps/tcrno9_route_22_12.png)
+![png](maps/tcrno9_route_horizontal.png)
 
 ### Code 
 
